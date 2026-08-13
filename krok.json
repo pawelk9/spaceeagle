@@ -1,0 +1,546 @@
+[
+  {
+  "organ_wydajacy": "Polska Agencja Kosmiczna",
+  "nazwa_rejestru": "Krajowy Rejestr Obiektów Kosmicznych",
+  "data_generowania": "29.07.2026",
+  "czas_generowania": "13:02",
+  "wersja": "1.04.26",
+  "strona": "1 z 1",
+  "bip": "bip.polsa.gov.pl",
+  "podpis_organu": "Prezes Polskiej Agencji Kosmicznej",
+  "obiekty_kosmiczne": [
+    {
+      "numer_rejestracyjny": "PL-001",
+      "operator": {
+        "nazwa": "19 Samodzielny Oddział Geoprzestrzenny",
+        "forma_prawna": "organ państwowy",
+        "nip": null,
+        "regon": null,
+        "adres": {
+          "panstwo": "Polska",
+          "miasto": "Leszno",
+          "kod_pocztowy": "64-100",
+          "ulica_i_numer": "Racławicka 1"
+        }
+      },
+      "zezwolenie": {
+        "numer": null,
+        "data_wydania": null
+      },
+      "obiekt": {
+        "nazwa": "POLSARIS-01 (ICEYE-X62)",
+        "data_wyniesienia": "28.11.2025",
+        "miejsce_wyniesienia": "VANDENBERG SPACE FORCE BASE, USA",
+        "pojazd_wynoszacy": "SpaceX FALCON 9",
+        "parametry_orbity": {
+          "kat_nachylenia_st": 96,
+          "okres_obiegu_min": 97,
+          "apogeum_km": 600,
+          "perygeum_km": 400
+        },
+        "ogolne_przeznaczenie": "obserwacja ziemi",
+        "panstwa_wynoszace": ["Polska"],
+        "status": "AKTYWNY"
+      },
+      "rejestracja": {
+        "data_zgloszenia_aktualizacji": "4.05.2026",
+        "data_dokonania_wpisu": "7.05.2026"
+      }
+    },
+    {
+      "numer_rejestracyjny": "PL-002",
+      "operator": {
+        "nazwa": "Centrum Badań Kosmicznych PAN",
+        "forma_prawna": "instytut",
+        "nip": null,
+        "regon": null,
+        "adres": {
+          "panstwo": "Polska",
+          "miasto": "Warszawa",
+          "kod_pocztowy": "00-716",
+          "ulica_i_numer": "Bartycka 18A"
+        }
+      },
+      "zezwolenie": {
+        "numer": null,
+        "data_wydania": null
+      },
+      "obiekt": {
+        "nazwa": "BRITE-PL1 „Lem”",
+        "data_wyniesienia": "21.11.2013",
+        "miejsce_wyniesienia": "ORENBURG, ROSJA",
+        "pojazd_wynoszacy": "Dnepr",
+        "parametry_orbity": {
+          "kat_nachylenia_st": 99,
+          "okres_obiegu_min": 98,
+          "apogeum_km": 857,
+          "perygeum_km": 586
+        },
+        "ogolne_przeznaczenie": "cele naukowe",
+        "panstwa_wynoszace": ["Polska"],
+        "status": "NIEAKTYWNY"
+      },
+      "rejestracja": {
+        "data_zgloszenia_aktualizacji": "5.05.2026",
+        "data_dokonania_wpisu": "8.05.2026"
+      }
+    },
+    {
+      "numer_rejestracyjny": "PL-003",
+      "operator": {
+        "nazwa": "Centrum Badań Kosmicznych PAN",
+        "forma_prawna": "instytut",
+        "nip": null,
+        "regon": null,
+        "adres": {
+          "panstwo": "Polska",
+          "miasto": "Warszawa",
+          "kod_pocztowy": "00-716",
+          "ulica_i_numer": "Bartycka 18A"
+        }
+      },
+      "zezwolenie": {
+        "numer": null,
+        "data_wydania": null
+      },
+      "obiekt": {
+        "nazwa": "BRITE-PL2 „Heweliusz”",
+        "data_wyniesienia": "19.08.2014",
+        "miejsce_wyniesienia": "TAIYAUN, CHINY",
+        "pojazd_wynoszacy": "Long March 4B",
+        "parametry_orbity": {
+          "kat_nachylenia_st": 96,
+          "okres_obiegu_min": 98,
+          "apogeum_km": 593,
+          "perygeum_km": 575
+        },
+        "ogolne_przeznaczenie": "cele naukowe",
+        "panstwa_wynoszace": ["Polska"],
+        "status": "AKTYWNY"
+      },
+      "rejestracja": {
+        "data_zgloszenia_aktualizacji": "5.05.2026",
+        "data_dokonania_wpisu": "8.05.2026"
+      }
+    },
+    {
+      "numer_rejestracyjny": "PL-004",
+      "operator": {
+        "nazwa": "Wojskowa Akademia Techniczna",
+        "forma_prawna": "uczelnia",
+        "nip": null,
+        "regon": null,
+        "adres": {
+          "panstwo": "Polska",
+          "miasto": "Warszawa",
+          "kod_pocztowy": "00-908",
+          "ulica_i_numer": "gen. Sylwestra Kaliskiego 2"
+        }
+      },
+      "zezwolenie": {
+        "numer": null,
+        "data_wydania": null
+      },
+      "obiekt": {
+        "nazwa": "PIAST-M",
+        "data_wyniesienia": "28.11.2025",
+        "miejsce_wyniesienia": "VANDENBERG SPACE FORCE BASE, USA",
+        "pojazd_wynoszacy": "SpaceX FALCON 9",
+        "parametry_orbity": {
+          "kat_nachylenia_st": 95,
+          "okres_obiegu_min": 97,
+          "apogeum_km": 508,
+          "perygeum_km": 505
+        },
+        "ogolne_przeznaczenie": "obserwacja ziemi",
+        "panstwa_wynoszace": ["Polska"],
+        "status": "AKTYWNY"
+      },
+      "rejestracja": {
+        "data_zgloszenia_aktualizacji": "28.05.2026",
+        "data_dokonania_wpisu": "29.05.2026"
+      }
+    },
+    {
+      "numer_rejestracyjny": "PL-005",
+      "operator": {
+        "nazwa": "Wojskowa Akademia Techniczna",
+        "forma_prawna": "uczelnia",
+        "nip": null,
+        "regon": null,
+        "adres": {
+          "panstwo": "Polska",
+          "miasto": "Warszawa",
+          "kod_pocztowy": "00-908",
+          "ulica_i_numer": "gen. Sylwestra Kaliskiego 2"
+        }
+      },
+      "zezwolenie": {
+        "numer": null,
+        "data_wydania": null
+      },
+      "obiekt": {
+        "nazwa": "PIAST-S1",
+        "data_wyniesienia": "28.11.2025",
+        "miejsce_wyniesienia": "VANDENBERG SPACE FORCE BASE, USA",
+        "pojazd_wynoszacy": "SpaceX FALCON 9",
+        "parametry_orbity": {
+          "kat_nachylenia_st": 95,
+          "okres_obiegu_min": 97,
+          "apogeum_km": 509,
+          "perygeum_km": 504
+        },
+        "ogolne_przeznaczenie": "obserwacja ziemi",
+        "panstwa_wynoszace": ["Polska"],
+        "status": "AKTYWNY"
+      },
+      "rejestracja": {
+        "data_zgloszenia_aktualizacji": "28.05.2026",
+        "data_dokonania_wpisu": "29.05.2026"
+      }
+    },
+    {
+      "numer_rejestracyjny": "PL-006",
+      "operator": {
+        "nazwa": "Wojskowa Akademia Techniczna",
+        "forma_prawna": "uczelnia",
+        "nip": null,
+        "regon": null,
+        "adres": {
+          "panstwo": "Polska",
+          "miasto": "Warszawa",
+          "kod_pocztowy": "00-908",
+          "ulica_i_numer": "gen. Sylwestra Kaliskiego 2"
+        }
+      },
+      "zezwolenie": {
+        "numer": null,
+        "data_wydania": null
+      },
+      "obiekt": {
+        "nazwa": "PIAST-S2",
+        "data_wyniesienia": "28.11.2025",
+        "miejsce_wyniesienia": "VANDENBERG SPACE FORCE BASE, USA",
+        "pojazd_wynoszacy": "SpaceX FALCON 9",
+        "parametry_orbity": {
+          "kat_nachylenia_st": 95,
+          "okres_obiegu_min": 97,
+          "apogeum_km": 508,
+          "perygeum_km": 504
+        },
+        "ogolne_przeznaczenie": "obserwacja ziemi",
+        "panstwa_wynoszace": ["Polska"],
+        "status": "AKTYWNY"
+      },
+      "rejestracja": {
+        "data_zgloszenia_aktualizacji": "28.05.2026",
+        "data_dokonania_wpisu": "29.05.2026"
+      }
+    },
+    {
+      "numer_rejestracyjny": "PL-007",
+      "operator": {
+        "nazwa": "KP Labs Sp. z o.o.",
+        "forma_prawna": "sp. z o.o.",
+        "nip": "6263022143",
+        "regon": "364689962",
+        "adres": {
+          "panstwo": "Polska",
+          "miasto": "Gliwice",
+          "kod_pocztowy": "44-100",
+          "ulica_i_numer": "Bojkowska 37J"
+        }
+      },
+      "zezwolenie": {
+        "numer": null,
+        "data_wydania": null
+      },
+      "obiekt": {
+        "nazwa": "INTUITION-1",
+        "data_wyniesienia": "11.11.2023",
+        "miejsce_wyniesienia": "VANDENBERG SPACE FORCE BASE, USA",
+        "pojazd_wynoszacy": "SpaceX FALCON 9",
+        "parametry_orbity": {
+          "kat_nachylenia_st": 95,
+          "okres_obiegu_min": 98,
+          "apogeum_km": 540,
+          "perygeum_km": 519
+        },
+        "ogolne_przeznaczenie": "technologiczny",
+        "panstwa_wynoszace": ["Polska"],
+        "status": "ZDEORBITOWANY"
+      },
+      "rejestracja": {
+        "data_zgloszenia_aktualizacji": "2.06.2026",
+        "data_dokonania_wpisu": "2.06.2026"
+      }
+    },
+    {
+      "numer_rejestracyjny": "PL-008",
+      "operator": {
+        "nazwa": "Creotech Instruments S.A.",
+        "forma_prawna": "spółka akcyjna",
+        "nip": "9512244313",
+        "regon": "141246690",
+        "adres": {
+          "panstwo": "Polska",
+          "miasto": "Piaseczno",
+          "kod_pocztowy": "05-500",
+          "ulica_i_numer": "Jana Pawła II 66"
+        }
+      },
+      "zezwolenie": {
+        "numer": null,
+        "data_wydania": null
+      },
+      "obiekt": {
+        "nazwa": "EAGLEEYE",
+        "data_wyniesienia": "16.08.2024",
+        "miejsce_wyniesienia": "VANDENBERG SPACE FORCE BASE, USA",
+        "pojazd_wynoszacy": "SpaceX FALCON 9",
+        "parametry_orbity": {
+          "kat_nachylenia_st": 92,
+          "okres_obiegu_min": 97,
+          "apogeum_km": 370,
+          "perygeum_km": 368
+        },
+        "ogolne_przeznaczenie": "obserwacja ziemi",
+        "panstwa_wynoszace": ["Polska"],
+        "status": "NIEAKTYWNY"
+      },
+      "rejestracja": {
+        "data_zgloszenia_aktualizacji": "22.06.2026",
+        "data_dokonania_wpisu": "22.06.2026"
+      }
+    },
+    {
+      "numer_rejestracyjny": "PL-009",
+      "operator": {
+        "nazwa": "ICEYE POLSKA sp. z o.o.",
+        "forma_prawna": "sp. z o.o.",
+        "nip": "5272824522",
+        "regon": "368558487",
+        "adres": {
+          "panstwo": "Polska",
+          "miasto": "Warszawa",
+          "kod_pocztowy": "00-687",
+          "ulica_i_numer": "Wspólna 70"
+        }
+      },
+      "zezwolenie": {
+        "numer": null,
+        "data_wydania": null
+      },
+      "obiekt": {
+        "nazwa": "ICEYE-X78",
+        "data_wyniesienia": "3.05.2026",
+        "miejsce_wyniesienia": "VANDENBERG SPACE FORCE BASE, USA",
+        "pojazd_wynoszacy": "SpaceX FALCON 9",
+        "parametry_orbity": {
+          "kat_nachylenia_st": 96,
+          "okres_obiegu_min": 98,
+          "apogeum_km": 600,
+          "perygeum_km": 400
+        },
+        "ogolne_przeznaczenie": "satelita SAR (radar z syntetyczną aperturą)",
+        "panstwa_wynoszace": ["Polska"],
+        "status": "AKTYWNY"
+      },
+      "rejestracja": {
+        "data_zgloszenia_aktualizacji": "26.06.2026",
+        "data_dokonania_wpisu": "29.06.2026"
+      }
+    },
+    {
+      "numer_rejestracyjny": "PL-010",
+      "operator": {
+        "nazwa": "Politechnika Warszawska",
+        "forma_prawna": "uczelnia",
+        "nip": null,
+        "regon": null,
+        "adres": {
+          "panstwo": "Polska",
+          "miasto": "Warszawa",
+          "kod_pocztowy": "00-661",
+          "ulica_i_numer": "Pl. Politechniki 1"
+        }
+      },
+      "zezwolenie": {
+        "numer": null,
+        "data_wydania": null
+      },
+      "obiekt": {
+        "nazwa": "PW Sat",
+        "data_wyniesienia": "13.02.2012",
+        "miejsce_wyniesienia": "KOUROU, GUJANA FRANCUSKA",
+        "pojazd_wynoszacy": "VEGA",
+        "parametry_orbity": {
+          "kat_nachylenia_st": 102,
+          "okres_obiegu_min": 69,
+          "apogeum_km": 1441,
+          "perygeum_km": 310
+        },
+        "ogolne_przeznaczenie": "naukowy/edukacyjny",
+        "panstwa_wynoszace": ["Polska"],
+        "status": "ZDEORBITOWANY"
+      },
+      "rejestracja": {
+        "data_zgloszenia_aktualizacji": "26.06.2026",
+        "data_dokonania_wpisu": "29.06.2026"
+      }
+    },
+    {
+      "numer_rejestracyjny": "PL-011",
+      "operator": {
+        "nazwa": "Politechnika Warszawska",
+        "forma_prawna": "uczelnia",
+        "nip": null,
+        "regon": null,
+        "adres": {
+          "panstwo": "Polska",
+          "miasto": "Warszawa",
+          "kod_pocztowy": "00-661",
+          "ulica_i_numer": "Pl. Politechniki 1"
+        }
+      },
+      "zezwolenie": {
+        "numer": null,
+        "data_wydania": null
+      },
+      "obiekt": {
+        "nazwa": "PW-Sat2",
+        "data_wyniesienia": "3.12.2018",
+        "miejsce_wyniesienia": "VANDENBERG SPACE FORCE BASE, USA",
+        "pojazd_wynoszacy": "SpaceX FALCON 9",
+        "parametry_orbity": {
+          "kat_nachylenia_st": 96,
+          "okres_obiegu_min": 98,
+          "apogeum_km": 591,
+          "perygeum_km": 575
+        },
+        "ogolne_przeznaczenie": "naukowy/edukacyjny",
+        "panstwa_wynoszace": ["Polska"],
+        "status": "ZDEORBITOWANY"
+      },
+      "rejestracja": {
+        "data_zgloszenia_aktualizacji": "26.06.2026",
+        "data_dokonania_wpisu": "29.06.2026"
+      }
+    },
+    {
+      "numer_rejestracyjny": "PL-012",
+      "operator": {
+        "nazwa": "19 Samodzielny Oddział Geoprzestrzenny",
+        "forma_prawna": "organ państwowy",
+        "nip": null,
+        "regon": null,
+        "adres": {
+          "panstwo": "Polska",
+          "miasto": "Leszno",
+          "kod_pocztowy": "64-100",
+          "ulica_i_numer": "Racławicka 1"
+        }
+      },
+      "zezwolenie": {
+        "numer": null,
+        "data_wydania": null
+      },
+      "obiekt": {
+        "nazwa": "POLSARIS-03 (ICEYE-X76)",
+        "data_wyniesienia": "30.03.2026",
+        "miejsce_wyniesienia": "VANDENBERG SPACE FORCE BASE, USA",
+        "pojazd_wynoszacy": "SpaceX FALCON 9",
+        "parametry_orbity": {
+          "kat_nachylenia_st": 96,
+          "okres_obiegu_min": 97,
+          "apogeum_km": 600,
+          "perygeum_km": 400
+        },
+        "ogolne_przeznaczenie": "obserwacja ziemi",
+        "panstwa_wynoszace": ["Polska"],
+        "status": "AKTYWNY"
+      },
+      "rejestracja": {
+        "data_zgloszenia_aktualizacji": "2.07.2026",
+        "data_dokonania_wpisu": "3.07.2026"
+      }
+    },
+    {
+      "numer_rejestracyjny": "PL-013",
+      "operator": {
+        "nazwa": "19 Samodzielny Oddział Geoprzestrzenny",
+        "forma_prawna": "organ państwowy",
+        "nip": null,
+        "regon": null,
+        "adres": {
+          "panstwo": "Polska",
+          "miasto": "Leszno",
+          "kod_pocztowy": "64-100",
+          "ulica_i_numer": "Racławicka 1"
+        }
+      },
+      "zezwolenie": {
+        "numer": null,
+        "data_wydania": null
+      },
+      "obiekt": {
+        "nazwa": "POLSARIS-02 (ICEYE-X75)",
+        "data_wyniesienia": "30.03.2026",
+        "miejsce_wyniesienia": "VANDENBERG SPACE FORCE BASE, USA",
+        "pojazd_wynoszacy": "SpaceX FALCON 9",
+        "parametry_orbity": {
+          "kat_nachylenia_st": 96,
+          "okres_obiegu_min": 97,
+          "apogeum_km": 600,
+          "perygeum_km": 400
+        },
+        "ogolne_przeznaczenie": "obserwacja ziemi",
+        "panstwa_wynoszace": ["Polska"],
+        "status": "AKTYWNY"
+      },
+      "rejestracja": {
+        "data_zgloszenia_aktualizacji": "2.07.2026",
+        "data_dokonania_wpisu": "3.07.2026"
+      }
+    },
+    {
+      "numer_rejestracyjny": "PL-014",
+      "operator": {
+        "nazwa": "Creotech Instruments S.A.",
+        "forma_prawna": "spółka akcyjna",
+        "nip": "9512244313",
+        "regon": "141246690",
+        "adres": {
+          "panstwo": "Polska",
+          "miasto": "Piaseczno",
+          "kod_pocztowy": "05-500",
+          "ulica_i_numer": "Jana Pawła II 66"
+        }
+      },
+      "zezwolenie": {
+        "numer": "01/2026",
+        "data_wydania": "10.07.2026"
+      },
+      "obiekt": {
+        "nazwa": "Mikroglob-1",
+        "data_wyniesienia": "7.07.2026",
+        "miejsce_wyniesienia": "VANDENBERG SPACE FORCE BASE, USA",
+        "pojazd_wynoszacy": "SpaceX FALCON 9",
+        "parametry_orbity": {
+          "kat_nachylenia_st": 97,
+          "okres_obiegu_min": 68,
+          "apogeum_km": 602,
+          "perygeum_km": 578
+        },
+        "ogolne_przeznaczenie": "obserwacja ziemi",
+        "panstwa_wynoszace": ["Polska"],
+        "status": "AKTYWNY"
+      },
+      "rejestracja": {
+        "data_zgloszenia_aktualizacji": "13.07.2026",
+        "data_dokonania_wpisu": "14.07.2026"
+      }
+    }
+  ]
+}
+]
